@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Quan Qi"
 description              : &description "personal description"
 url                      : "https://quanqi77.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/quanqi.github.io/" # the subpath of your site, e.g. "/blog"
 repository               : "quanqi77/quanqi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
