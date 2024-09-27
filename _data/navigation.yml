@@ -6,16 +6,16 @@
 
 main:
   - title: "Research"
-    url: /research/
+    url: /publications/
 
   - title: "Conference and Workshop"
-    url: /conferenceandworkshop/    
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Activity"
-    url: /activity/
+    url: /portfolio/
     
   - title: "CV"
     url: /files/Quan_Qi_CV.pdf
