@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Quan's Homepage"
 title_separator          : "-"
-name                     : & "Quan Qi"
+name                     : &name "Quan Qi"
 description              : &description "personal description"
 url                      : "https://quanqi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
