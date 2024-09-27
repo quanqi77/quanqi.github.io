@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Quan's Homepage"
 title_separator          : "-"
-name                     : &name "    Quan Qi"
+name                     : &name "Quan Qi"
 description              : &description "personal description"
 url                      : "https://quanqi77.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/quan-qi-87277a172"
+  linkedin         : #"https://www.linkedin.com/in/quan-qi-87277a172"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
